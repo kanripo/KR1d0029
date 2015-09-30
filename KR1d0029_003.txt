@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮識誤
-#+DATE: 2015-09-23 09:37:43
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 22:08:29.377413
+#+PROPERTY: ID KR1d0029
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三
 <pb:KR1d0029_WYG_003-1a>¶
 欽定四庫全書¶
 　儀禮識誤卷三¶
@@ -92,4 +94,3 @@
 　¶
 　¶
 　儀禮識誤卷三¶
-
